@@ -4,4 +4,4 @@ Hello! Welcome to a very important project. I'm analyzing tweets from "old fruit
 
 Anyway, consider this a placeholder as I patch together what's becoming a rather sprawling little project. Enjoy this enigmatic first graph from my Exploratory Data Analysis:
 
-![](fruits.png)
+![](fruit_favs.png)
