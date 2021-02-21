@@ -1,6 +1,6 @@
 # Analysis of tweets from @pomological
 
-Hello! Welcome to a very important project. I'm analyzing tweets from "old fruit pictures" ([https://twitter.com/pomological](@pomological)) to see which old fruits people are most impressed with. We've got all the fruits: kumquats; oranges; and lots of apples. I particularly like the apples, but no one else seems to.
+Hello! Welcome to a very important project. I'm analyzing tweets from "old fruit pictures" ((https://twitter.com/pomological)[@pomological]) to see which old fruits people are most impressed with. We've got all the fruits: kumquats; oranges; and lots of apples. I particularly like the apples, but no one else seems to.
 
 Anyway, consider this a placeholder as I patch together what's becoming a rather sprawling little project. In the meantime, please enjoy this enigmatic first graph from my preliminary Exploratory Data Analysis:
 
