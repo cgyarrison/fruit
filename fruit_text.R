@@ -33,11 +33,11 @@ fruit1 %>% ggplot(aes(x = date, y = fav, color = top10)) +
 library(ggthemes)
 fruit1 %>% ggplot(aes(x = date, y = fav, color = top10)) +
   geom_point(show.legend = FALSE, alpha = 0.5) +
-  ggtitle("Popular fruits") +
+  ggtitle("Fruit fav's over time") +
   theme_wsj()
 # ggsave("fruit_favs.png")
 
-
+fruit1 %>% filter(fav > 400)
 
 # fruit1 <- fruit %>% extract(text,
 #                             c("fruit_name", "artist", "year"),
