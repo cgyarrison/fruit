@@ -10,4 +10,4 @@ Among questions to be answered:
 
 * Who's that way up there with over 400 fav's? (spoiler: it's peaches!)
 * Did I really pick out the types of fruit correctly with regex? (uh oh!)
-* Who's liking what? Which fruits really resonate with which accounts? (maybe I'll be in there, liking the apples! :apple::dark_sunglasses:)
+* Who's liking what? Which fruits really resonate with which accounts? (maybe I'll be in there, liking the apples! :apple::eyes:)
