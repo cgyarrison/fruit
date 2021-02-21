@@ -1,7 +1,7 @@
 library(tidyverse)
 # library(rtweet)
 
-fruit <- read_csv("twitter/fruit.csv")
+fruit <- read_csv("fruit.csv")
 glimpse(fruit)
 
 fruit$text
